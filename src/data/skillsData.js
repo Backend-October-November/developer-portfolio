@@ -6,6 +6,10 @@
     'Svelte',
     'Photoshop',
     'Lightroom',
+    'Wordpress',
+    'Next JS',
+
+
 
     
 ]

@@ -18,15 +18,15 @@ export const projectsData = [
     //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
     //     image: one
     // },
-    // {
-    //     id: 2,
-    //     projectName: 'Railway Tracking',
-    //     projectDesc: 'This project is a railway tracking system that allows users to obtain relevant information about train timing.',
-    //     tags: ['Django', 'Tailwind CSS'],
-    //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     image: two
-    // },
+    {
+        id: 2,
+        projectName: 'Meal Generator',
+        projectDesc: 'This project is a railway tracking system that allows users to obtain relevant information about train timing.',
+        tags: ['React', 'CSS'],
+        code: 'https://github.com/ronniejuan/meal-generator',
+        demo: 'https://ronniejuan.github.io/meal-generator/',
+        image: two
+    },
     {
         id: 3,
         projectName: 'Cancer Detection App',
